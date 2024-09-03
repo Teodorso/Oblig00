@@ -10,4 +10,5 @@
 
 # git version 2.46.0.windows.1
 >>>>>>> af9d13597154063a779f36141d5d15fad40167f8
-nytt
+
+merges
